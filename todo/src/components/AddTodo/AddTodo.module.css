@@ -1,0 +1,15 @@
+.text{
+    width: 92%;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.submit{
+    width:8%;
+    height: 45px;
+    background: lightgreen;
+    margin:0;
+    font-size: 20px;
+    cursor: pointer;
+}
+
