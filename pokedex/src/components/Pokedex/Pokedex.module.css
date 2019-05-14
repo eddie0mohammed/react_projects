@@ -1,0 +1,9 @@
+.pokedex{
+    background: white;
+}
+
+.pokedex1{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
